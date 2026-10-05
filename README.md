@@ -29,7 +29,7 @@ python -m unittest discover -v
 | Admin | `admin` | `admin123` |
 | Receptionist | `desk` | `desk123` |
 
-Demo guest emails: `rajat@example.com`, `ananya@example.com`, `vikram@example.com`, `meera@example.com`.
+Demo guest emails: `rajat@example.com`, `ananya@example.com`, `vikram@example.com`, `meera@example.com`.   
 
 ## Availability calendar preview
 ```
@@ -42,8 +42,8 @@ Room  04 05 06 07 08 09 10 11 12 13 14 15 16 17
 Legend:  free   # booked   @ in house   M maintenance
 ```
 
-## Structure
-```
+## Structure  
+ ```
 .
 ├── main.py                 # entry point
 ├── statement.md            # problem statement and scope
